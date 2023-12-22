@@ -1,6 +1,7 @@
 ### FriendFit 프로젝트
 ---
 
+![ff](https://github.com/ydydydydydy/FriendsFit/assets/140699908/310678ce-3704-40d1-ad0b-9824b97acc68)
 
 
 
